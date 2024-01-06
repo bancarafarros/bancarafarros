@@ -1,7 +1,7 @@
 <h1 href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FFFFFF&left=true&width=1400&lines=Wut+up+g+👋,+I'm+Bancar+Anggono+Farros+Santosa" alt="Typing SVG"/></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🌱 I’m currently learning Backend using CodeIgniter, Laravel, and Node.js
+- 🌱 I'm currently learning backend development with CodeIgniter, Laravel, and Node.js
 
 <!--
 ### 🚀 About Me
